@@ -9,71 +9,26 @@ Special property of String in java.
 Why map is a part of collection stil it is not extended by collection
 What is collection.
 
-ApplicationContext vs Beanfactory
-Different Implementations of ApplicationContext.
-ApplicationContext is interfaces or class.
-
-What is SessionFactory .
-SessionFactory  is interfaces or class.
-advantage of hibernate over JDBC
-HQL or SQL which one is faster and optimized.
-Object States in Hibernate
-
-
-//
-
-n+1 select problem and resolution
 meaning of public and static in main method
 overloading and overriding
 searching and sorting in array algo/Complexity
 implementation of arrayList
 HashTable vs HashMap
 LinkedList vs ArrayList
-purpose of session  and sessionfactory
-get vs load
-lazy loading
-detached state in hibernate
-AJAX and implementation of AJAX
 where we use arraylist and where we use linkedlist.
-Application Server vs Web Server
 Why string is immutable in Java.
-
-Dream4You Jaipur
-
-//Spring
-What is ApplicationContext.
-DI and IOC
-When we make any change in configuration file is there is a need of server restart.
-If yes what can we do not for not restarting the server.
-Is there are more than one configuration file of spring.
-Difference between filter and servlet.
-
-
-//Hibernate
-Different Types of relations
-OnetoMany and ManyToOne
-Fetch Type/Fetch Mode
-Lazy Loading 
-Can we make our entity thread safe  or final.
-
-Customer CustomerAction
-
-Batch Update in Hibernate
-
-
-//Core JAVA
 
 Difference Between ArrayList and Vector
 HashSet vs HashTable
 Various Implementations of List
 Stack
-Set 
+Set
 Sorting in set
 HashCode
 HashMap
 Scnearios for using ArrayList and LinkedList
 for reversing a list of characters which one is used.
-If there is a method which is threadsafe(mulithread Environment) in what scenarios which one is better either arrayList or LinedList.
+If there is a method which is threadsafe(multithread Environment) in what scenarios which one is better either arrayList or LinedList.
 How we can iterate HashMap
 
 Suppose that there are two objects of Employee class e1 and e2.
@@ -100,77 +55,25 @@ Scope of object
 Garbadge Collection
 Finalize
 
-
-// Spring 
-DI / how we load the spring beans
-ApplicationContext
-Spring beans are stateless or stateful.
-How we can connect our service(Spring) bean to Hibernate.
-
-
-// Hibernate
-ManyToMany mappings/How many tables are required for that.
-DAO 
-Lazy Loading
-purpose of using Hibernate
-what is hibernate
-JDBC Steps
-
-
-// GWT
-
-Why we use GWT.
-RPC Mechanism
-
-//
 What is collection.
 internal working of hashmap
 what we have to take care when designing a hashmap key.
-validation framework of struts/SPring MVC.
-various  method of jsp /life cycle of jsp.
 what would happen if we call destroy method from service.
-how can we make composite primary key in hibernate.
-various states of object in hibernate.
-How can we make our detatched object to persistent.
-Autowiring in Spring. Types of autoWiring.
-If two beans with same type in case of autowiring what would happen.
 How to make a class immutable.
-
-SnapOn
-
 composition vs Aggregation
 Encapsulation vs Abstarction
-Tell me about ur current project/layers
-How GWT client interect with GWT server
 
 what are design patterns.
 Difference between factory and abstract factory design pattern
 What is singleton and factory patterns.
 give me  scenario where you can use singleton.
-forward vs sendredirect
-implicit objects
-servletcontext vs servletconfig
-brief me ur last project. what is ur role in that.
-what are the last work u have done in ur project. explain anlaysis design implementation etc.
 oops features
-IOC
-
-
-what are joins.
-indexing in mysql.
-functions and procedures.
-
-
-merge and update
-
-GlobalLogic
 
 How set maintains uniqueness.
 Internal working of hashset/HashMap
 Write your own GC
 Create your own linked list
 String vs StringBuffer vs StringBuilder
-n+1 select problem
 Where we use hashMap
 What is hashCode
 Iterate hashmap in java / internal working 
@@ -185,7 +88,6 @@ Why map is not part of Collection.
 How we overload a method.
 Structure of JVM.
 What is polymorphism. Overloading vs Overriding.
-Difference between IOC and DI.
 How we can increase size of heap memory.
 Internal Implementation of Garbage collector.
 What is linkedList.
@@ -193,9 +95,6 @@ How you can create own Custom Exceptions.
 Throw vs Throws
 How we handle nullpointer exception.
 What is Serialization and why we use this.
-How will you integrate spring and hibernate.
-Why spring is required.
-Configuration of various mapping in hibernate.
 
 
 Nagarro
@@ -221,24 +120,11 @@ Difference between Component and Service in Spring.
 
 SafeNet
 
-@Qualifier annotation in Spring.
-Second level Caching
-Advantage of Hibernate
 Singleton Design Pattern
-Proxy Objects in Spring
-Indexing in MySQl
-Calculate the Second hightest Salary from Employee table
-Lazy Loading vs Eager Loading
-Configure one to many and many to many relations in hibernate (By Configuration files/Annotations)
-HQL vs SQL
 Immutable class in java. How can we create immutable class.
 OOPS Principle
 Disadvantage of Inheritance
 what is HashTable.
-Webserver vs Application Server
-Why we use Spring.
-Spring Bean life cycle
-What are the init-methods in Spring.
 
 
 

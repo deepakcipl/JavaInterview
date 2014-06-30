@@ -1,11 +1,14 @@
 package com.duplicate;
-/**
- * Deepak sharma git hub test
-
-again maniopulate
- */
 import java.util.HashMap;
+
 import java.util.Map;
+
+
+/*The contract between the hashcode and equals method is:-
+
+1. The hashcode of two equal object shuold be the same.
+2.If hashcode of two objects are same then they may or may not be equal.
+*/
 
 public class Apple {
 
@@ -35,7 +38,7 @@ public class Apple {
 	}
 	
 	
-	public static void main(String...s){
+	public static  void main(String...s){
 		
 		Apple apple1=new Apple("green");
 		Apple apple2=new Apple("red");

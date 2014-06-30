@@ -50,9 +50,7 @@ class Accountant implements Employee{
 		System.out.println("Name= "+name+" id= "+id);
 	}
 	
-	
 }
-
 
 class CompanyDirectory implements Employee{
 	
